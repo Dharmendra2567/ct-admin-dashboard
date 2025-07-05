@@ -1,8 +1,11 @@
 
 # Learnt and build a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More
 
-Reference: [YouTube Tutorial](https://youtu.be/jx5hdo50a2M?si=k1Nbv3jWiOFEey03)
+Reference: [YouTube Tutorial](https://youtu.be/jx5hdo50a2M?si=k1Nbv3jWiOFEey03), [Syncfusion](https://syncfusion.com)
 
+---
+## Dashboard
+![Dashboard](./screenshots/dashboard.png)
 
 ## 🛠 Installation & Setup Guide
 
@@ -10,7 +13,7 @@ Follow the steps below to set up and run the project locally:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/admin_dashboard.git
+git clone https://github.com/Dharmendra2567/CSI-2025/tree/master/week3/admin_dashboard
 cd admin_dashboard
 ````
 
@@ -49,8 +52,3 @@ npm start
 
 The app will open in your default browser at `http://localhost:3000`.
 
----
-
-Let me know if you'd like to add environment setup or `.gitignore` guidelines too!
-
-```
